@@ -1,4 +1,4 @@
-# tokens
+# discord c2's
 
 Discord-C2-s
 Discord resets every token thats found on github. This repo is used to reset malicious bot tokens. Please also note that none of these bot tokens work anymore and that this repo is automated. If you got notified, leave a message!
@@ -14,4 +14,4 @@ Be more careful in the future, and make sure to not accidentally upload your tok
 
 Obtain a New Bot Token: https://discord.com/developers/applications/1111111111111111111/bot
 
-heavily insprised by
+heavily insprised by schizophrenic144
