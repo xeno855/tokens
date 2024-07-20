@@ -8,7 +8,7 @@ Hey {User},
 
 Safety Jim here! It appears that the token for your bot, {Bot Name} has been posted to the internet. Luckily, our token-scanning gremlins noticed, and have reset your bot's token - hopefully before anyone could have maliciously used it!
 
-Your token was found here: [https://github.com/schizophrenic144/Discord-C2-s/blob/main/tokens](https://github.com/xeno855/tokens/blob/main/tokens)
+Your token was found here: https://github.com/xeno855/tokens/blob/main/tokens
 
 Be more careful in the future, and make sure to not accidentally upload your token publicly!
 
