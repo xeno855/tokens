@@ -16,3 +16,5 @@ Be more careful in the future, and make sure to not accidentally upload your tok
 Obtain a New Bot Token: https://discord.com/developers/applications/1111111111111111111/bot
 
 heavily insprised by schizophrenic144
+
+Join our discord, discord.gg/xenostools
